@@ -1,2 +1,2 @@
 # Algorithm_study and Problem_solving
-Algorithm_study and Problem_solving from SW_Jungle till now!
+Problem_solving repo for studying algotithm and practicing languages 
